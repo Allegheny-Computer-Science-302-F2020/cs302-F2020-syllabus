@@ -1,3 +1,5 @@
+![build](../../workflows/build/badge.svg) ![release](../../workflows/release/badge.svg)
+
 # cs302-F2020-syllabus
 
 This repository contains the syllabus for Computer Science 302 Spring 2019. To

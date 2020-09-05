@@ -7,7 +7,7 @@ Organization](https://github.com/Allegheny-Computer-Science-302-F2020).
 
 ## Accessing the Syllabus
 
-Since this repository primarily contains LaTeX source code, the Travis CI
+Since this repository primarily contains LaTeX source code, the GitHub Actions
 configuration for it will compile the source code and automatically release a
 PDF of the source code whenever the last commit is associated with a [Git
 Tag](https://git-scm.com/book/en/v2/Git-Basics-Tagging). As such, this will

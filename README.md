@@ -2,7 +2,7 @@
 
 # cs302-F2020-syllabus
 
-This repository contains the syllabus for Computer Science 302 Spring 2019. To
+This repository contains the syllabus for Computer Science 302 Fall 2020. To
 learn more about the course for which this syllabus was created, please visit
 the [Computer Science 302 Fall 2020 GitHub
 Organization](https://github.com/Allegheny-Computer-Science-302-F2020).
